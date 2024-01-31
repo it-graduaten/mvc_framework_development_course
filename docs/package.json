@@ -1,0 +1,19 @@
+{
+  "name": "mvc_framework_development_course",
+  "version": "0.0.1",
+  "description": "A comprehensive guide for the course MVC Framework Development teached in the programme Graduaat Programmeren - Thomas More",
+  "main": "index.js",
+  "authors": {
+    "name": "Matthias Claessen",
+    "email": "matthias.claessen@thomasmore.be"
+  },
+  "repository": "/mvc_framework_development_course",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
